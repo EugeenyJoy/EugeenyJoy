@@ -1,11 +1,13 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&vCenter=true&width=600&lines=Привет%2C+я+Евгений+👋;Создаю+то%2C+что+интересно+мне;Разработчик+%7C+Писатель+%7C+Исследователь" alt="Typing SVG" />
+# Привет, я Евгений 👋
 
+## Создаю то, что интересно мне
+
+Разработчик, писатель, исследователь.
 Делаю проекты на стыке технологий, ИИ и творчества.
-Не строю по чужим чертежам — создаю своё.
 
 ---
 
-## 🛠 Технологии
+### 🛠 Технологии
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,python,c,angular,nodejs,postgres,html,css&theme=dark" />
@@ -19,46 +21,26 @@
 
 ---
 
-## 🔭 Проекты
+### 🔭 Текущие проекты
 
-### 🤖 Ферма ботов
-> Система автоматизации через Telegram-ботов
->
-> `Python` `Telegram API`
-
-### 🎮 Chakra Runner
-> 2D раннер на Canvas — духовная эволюция через чакры
->
-> `JavaScript` `Canvas API`
-
-### 💬 Социальная сеть — TG Mini App
-> Социальная платформа внутри Telegram
->
-> `Python` `Telegram Mini Apps`
-
-### 🧠 AI Influencer
-> ИИ-персонаж, генерирующий контент автономно
->
-> `AI` `Neural Networks`
-
-### 📖 «Не не разный»
-> Фантастика про попаданца
->
-> `Проза` `9 глав`
+| Проект | Описание |
+|--------|----------|
+| 🤖 Ферма ботов | Система автоматизации через Telegram-ботов |
+| 🎮 Chakra Runner | 2D раннер на Canvas — духовная эволюция через чакры |
+| 💬 TG Mini App | Социальная сеть внутри Telegram |
+| 🧠 AI Influencer | ИИ-персонаж, генерирующий контент автономно |
+| 📖 «Не не разный» | Фантастика про попаданца |
 
 ---
 
-## ⚡ Обо мне
+### 🎯 Философия
 
-```text
-> Пишу книгу, программирую игру про чакры,
-> строю соцсеть в Telegram и генерирую видео нейросетями.
-> Одновременно.
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=EugeenyJoy&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EugeenyJoy&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+> Не строю по чужим чертежам.
+> Создаю проекты для себя — если они полезны другим, тем лучше.
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EugeenyJoy&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+---
+
+### ⚡ Fun fact
+
+Пишу книгу, программирую игру про чакры,
+строю соцсеть в Telegram и генерирую видео нейросетями — одновременно.
